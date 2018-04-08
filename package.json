@@ -1,0 +1,15 @@
+{
+  "name": "project_file",
+  "version": "1.0.0",
+  "description": "2nd file",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "author": "Ai",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {}
+}
